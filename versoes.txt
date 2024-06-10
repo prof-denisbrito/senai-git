@@ -1,1 +1,2 @@
 vamos de alterações
+Entendendo alterações no git
